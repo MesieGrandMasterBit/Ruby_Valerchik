@@ -1,7 +1,7 @@
 # Ruby lab 2
 ## Marginal Valera's simulator
 
-![Unit Tests & Lint]https://github.com/MesieGrandMasterBit/Ruby_Valerchik/actions/workflows/main.yml/badge.svg
+![Unit Tests & Lint] (https://github.com/MesieGrandMasterBit/Ruby_Valerchik/actions/workflows/main.yml/badge.svg)
 
 ## Run test
 ```bash
